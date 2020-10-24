@@ -13,7 +13,7 @@
                                     </h5>
                                 </div>
                                 <div>
-                                    <form method="post" role="form" class="contactForm">
+                                    <form action="mailto:askarbek101@gmail.com" enctype="multipart/form-data" method="post" role="form" class="contactForm">
                                         <div id="sendmessage">Your message has been sent. Thank you!</div>
                                         <div id="errormessage"></div>
                                         <div class="row">

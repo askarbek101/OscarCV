@@ -155,7 +155,7 @@
 </section>    <!--/ Section Services End /-->
 @endsection
 @section('counter')
-<div class="section-counter paralax-mf bg-image" style="background-image: url(img/counters-bg.jpg)">
+<div class="section-counter paralax-mf bg-image" style="background-image: url( {{ url('img/counters-bg.jpg') }})">
     <div class="overlay-mf"></div>
     <div class="container">
       <div class="row">
