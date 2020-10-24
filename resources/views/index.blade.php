@@ -77,10 +77,10 @@
 
                   </p>
                   <p class="lead">
-                    +3 years study in BCIT in Vancouver,Canada brought irreplaceable experience in C++, in X-code(Macbook) program and high english level as a bonus.
+                    +3 years study in BCIT in Vancouver,Canada brought him irreplaceable experience in C++, in X-code(Macbook) program and high english level as a bonus.
                   </p>
                   <p class="lead">
-                    Last 2 years (web development, web design, )
+                    Last 2 years (web development, web design, ) more or less info?
                   </p>
                 </div>
               </div>
@@ -102,7 +102,7 @@
               Services
             </h3>
             <p class="subtitle-a">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              Main directions
             </p>
             <div class="line-mf"></div>
           </div>
@@ -117,9 +117,7 @@
             <div class="service-content">
               <h2 class="s-title">C++ problem solving</h2>
               <p class="s-description text-center">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                provident vitae! Magni
-                tempora perferendis eum non provident.
+                  Askarbek has started his carrier when he was 16 solving competitive problems, what makes his critical thinking be on the top level
               </p>
             </div>
           </div>
@@ -132,9 +130,8 @@
             <div class="service-content">
               <h2 class="s-title">Web Development</h2>
               <p class="s-description text-center">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                provident vitae! Magni
-                tempora perferendis eum non provident.
+                Web development bla bla bla
+                  PHP Laravel backend
               </p>
             </div>
           </div>
@@ -147,9 +144,8 @@
             <div class="service-content">
               <h2 class="s-title">Responsive Design</h2>
               <p class="s-description text-center">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                provident vitae! Magni
-                tempora perferendis eum non provident.
+                creating and editing design of websites working with css scss files... bla bla bla
+                  frontend
               </p>
             </div>
           </div>
