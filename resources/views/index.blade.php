@@ -218,7 +218,7 @@
               Portfolio
             </h3>
             <p class="subtitle-a">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              I know some of you are visuals, so here is my portfolio. Enjoy!
             </p>
             <div class="line-mf"></div>
           </div>
@@ -227,16 +227,16 @@
       <div class="row">
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-1.jpg" data-lightbox="gallery-mf">
+            <a href="img/img1.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/work-1.jpg" alt="" class="img-fluid">
+                <img src="img/img1.jpg" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Lorem impsum dolor</h2>
+                    <h2 class="w-title">Those are just random guys :D only few of them are my friends</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">Football</span> / <span class="w-date">18 Sep. 2020</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
@@ -251,16 +251,16 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-2.jpg" data-lightbox="gallery-mf">
+            <a href="img/img2.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/work-2.jpg" alt="" class="img-fluid">
+                <img src="img/img2.jpg" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Loreda Cuno Nere</h2>
+                    <h2 class="w-title">I love snowboarding <3</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">Shymbulak Resort</span> / <span class="w-date">24 Feb. 2018</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
@@ -275,16 +275,16 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-3.jpg" data-lightbox="gallery-mf">
+            <a href="img/img3.jpg" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/work-3.jpg" alt="" class="img-fluid">
+                <img src="img/img3.jpg" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Mavrito Lana Dere</h2>
+                    <h2 class="w-title">April snow at the top of mountains, lovely</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">Almaty lake</span> / <span class="w-date">14 Apr. 2019</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
@@ -297,7 +297,79 @@
             </a>
           </div>
         </div>
-    </div>
+          <div class="col-md-4">
+              <div class="work-box">
+                  <a href="img/img4.jpg" data-lightbox="gallery-mf">
+                      <div class="work-img">
+                          <img src="img/img4.jpg" alt="" class="img-fluid">
+                      </div>
+                      <div class="work-content">
+                          <div class="row">
+                              <div class="col-sm-8">
+                                  <h2 class="w-title">Hiking is my passion</h2>
+                                  <div class="w-more">
+                                      <span class="w-ctegory">Kok Zhailay</span> / <span class="w-date">30 May. 2020</span>
+                                  </div>
+                              </div>
+                              <div class="col-sm-4">
+                                  <div class="w-like">
+                                      <span class="ion-ios-plus-outline"></span>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </a>
+              </div>
+          </div>
+          <div class="col-md-4">
+              <div class="work-box">
+                  <a href="img/img5.jpg" data-lightbox="gallery-mf">
+                      <div class="work-img">
+                          <img src="img/img5.jpg" alt="" class="img-fluid">
+                      </div>
+                      <div class="work-content">
+                          <div class="row">
+                              <div class="col-sm-8">
+                                  <h2 class="w-title">MORE HIKING, now its beyond the "Kok Zhailau"</h2>
+                                  <div class="w-more">
+                                      <span class="w-ctegory">3 brother peak</span> / <span class="w-date">21 June. 2019</span>
+                                  </div>
+                              </div>
+                              <div class="col-sm-4">
+                                  <div class="w-like">
+                                      <span class="ion-ios-plus-outline"></span>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </a>
+              </div>
+          </div>
+          <div class="col-md-4">
+              <div class="work-box">
+                  <a href="img/img6.jpg" data-lightbox="gallery-mf">
+                      <div class="work-img">
+                          <img src="img/img6.jpg" alt="" class="img-fluid">
+                      </div>
+                      <div class="work-content">
+                          <div class="row">
+                              <div class="col-sm-8">
+                                  <h2 class="w-title">Lovely backyard BBQ</h2>
+                                  <div class="w-more">
+                                      <span class="w-ctegory">Friends house</span> / <span class="w-date">1 Oct. 2019</span>
+                                  </div>
+                              </div>
+                              <div class="col-sm-4">
+                                  <div class="w-like">
+                                      <span class="ion-ios-plus-outline"></span>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </a>
+              </div>
+          </div>
+      </div>
 </div> <!--/ Section Portfolio End /-->
 @endsection
 @section('testimonial')
@@ -348,4 +420,5 @@
     </div>
 </section>
 @endsection
+
 
