@@ -13,7 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::post('/', function () {
+Route::match(array('GET', 'POST'), '/', function () {
     return view('index');
 });
-
