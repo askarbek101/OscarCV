@@ -282,9 +282,9 @@
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">April snow at the top of mountains, lovely</h2>
+                    <h2 class="w-title">Sunday - Family day!</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Almaty lake</span> / <span class="w-date">14 Apr. 2019</span>
+                      <span class="w-ctegory">Farrel farm</span> / <span class="w-date">17 Oct. 2020</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
