@@ -72,15 +72,30 @@
                     </h5>
                   </div>
                   <p class="lead">
-                    An ambitious problem solver with a passion for online businesses, and who would like to join into a team of open minded developers.
+                    An ambitious problem solver with a passion for online businesses, and who would like to join into a
+                      team of open minded developers.
                     Skills include computer networking, analytical thinking and creative problem solving.
 
                   </p>
                   <p class="lead">
-                    +3 years study in BCIT in Vancouver,Canada brought him irreplaceable experience in C++, in X-code(Macbook) program and high english level as a bonus.
+                    +3 years study in BCIT in Vancouver,Canada brought me irreplaceable experience in C++,
+                      in X-code(Macbook) program and high english level as a bonus.
                   </p>
                   <p class="lead">
-                    Last 2 years (web development, web design, ) more or less info?
+                    <h5 class="title-left">
+                        Skill highlights
+                    </h5>
+                        <div class="row">
+                            <div class="col-md-4">• Active listening</div>
+                            <div class="col-md-4">• Communication</div>
+                            <div class="col-md-4">• Customer service</div>
+                            <div class="col-md-4">• Interpersonal skills</div>
+                            <div class="col-md-4">• Leadership</div>
+                            <div class="col-md-4">• Problem-solving</div>
+                            <div class="col-md-4">• Transferable skills</div>
+                            <div class="col-md-4">• Computer skills</div>
+                            <div class="col-md-4">• Management skills</div>
+                        </div>
                   </p>
                 </div>
               </div>
