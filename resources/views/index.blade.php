@@ -49,7 +49,7 @@
                   </div>
                   <span>CSS3</span> <span class="pull-right">65%</span>
                   <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="65" aria-valuemin="0"
+                    <div class="progress-bar" role="progressbar" style="width: 65%" aria-valuenow="65" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
                   <span>PHP</span> <span class="pull-right">80%</span>
@@ -117,7 +117,7 @@
             <div class="service-content">
               <h2 class="s-title">C++ problem solving</h2>
               <p class="s-description text-center">
-                  Askarbek has started his carrier when he was 16 solving competitive problems, what makes his critical thinking be on the top level
+                  I Started my carrier when I was 16 solving competitive problems, what makes my critical thinking be on the top level
               </p>
             </div>
           </div>
@@ -130,8 +130,7 @@
             <div class="service-content">
               <h2 class="s-title">Web Development</h2>
               <p class="s-description text-center">
-                Web development bla bla bla
-                  PHP Laravel backend
+                Last 3 years my main direction was mostly connected with frontend. Creating websites, mostly by using open source templates. I'm practicing HTML/CSS/PHP/Laravel
               </p>
             </div>
           </div>
@@ -142,10 +141,9 @@
               <span class="ico-circle"><i class="ion-android-phone-portrait"></i></span>
             </div>
             <div class="service-content">
-              <h2 class="s-title">Responsive Design</h2>
+              <h2 class="s-title">App Editor</h2>
               <p class="s-description text-center">
-                creating and editing design of websites working with css scss files... bla bla bla
-                  frontend
+                Period of 2015-2016 I was interested in creating apps for iOS using xCode Objective C. That was mostly like a hobby, creating some mini games for iPhone
               </p>
             </div>
           </div>
@@ -398,18 +396,6 @@
               <div class="content-test">
                 <p class="description lead" style ="color: #671a1a">
                   Meow meeeeeow, meow meow!
-                </p>
-                <span class="comit"><i class="fa fa-quote-right"></i></span>
-              </div>
-            </div>
-            <div class="testimonial-box">
-              <div class="author-test">
-                <img src="img/testimonial-4.jpg" alt="" class="rounded-circle b-shadow-a">
-                <span class="author" style ="color: #671a1a">MUM</span>
-              </div>
-              <div class="content-test">
-                <p class="description lead" style ="color: #671a1a">
-                  aougewlgkdfjho;nlt;lmerdthj;l'ek;yreujp;g
                 </p>
                 <span class="comit"><i class="fa fa-quote-right"></i></span>
               </div>
