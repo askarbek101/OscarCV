@@ -378,7 +378,7 @@
           <div id="testimonial-mf" class="owl-carousel owl-theme">
             <div class="testimonial-box">
               <div class="author-test">
-                  <img src="img/oogway.jpg" alt="" class="rounded-circle b-shadow-a">
+                  <img src="img/oogway.JPG" alt="" class="rounded-circle b-shadow-a">
                   <span class="author" style ="color: #671a1a">Oogway</span>
               </div>
               <div class="content-test">

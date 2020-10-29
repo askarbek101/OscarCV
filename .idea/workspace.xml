@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48d77cf3-6290-4874-a191-86ea84ccb4f6" name="Default Changelist" comment="OscarCV">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="48d77cf3-6290-4874-a191-86ea84ccb4f6" name="Default Changelist" comment="small changes in secion about&#10;text changes in section service&#10;small changes in section testomonials">
       <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -319,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603540821685</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="small changes in secion about&#10;text changes in section service&#10;small changes in section testomonials">
+      <created>1603961651840</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1603961651840</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,7 +347,8 @@
     <MESSAGE value="OscarCV" />
     <MESSAGE value="mailto" />
     <MESSAGE value="changing route / from get to post" />
-    <option name="LAST_COMMIT_MESSAGE" value="changing route / from get to post" />
+    <MESSAGE value="small changes in secion about&#10;text changes in section service&#10;small changes in section testomonials" />
+    <option name="LAST_COMMIT_MESSAGE" value="small changes in secion about&#10;text changes in section service&#10;small changes in section testomonials" />
   </component>
   <component name="WindowStateProjectService">
     <state x="725" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603485195979">
@@ -352,10 +359,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603437033390" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1603486939426">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1603960600797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603486939426" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603960600797" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1603486343857">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -388,11 +395,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="ShowDiffWithBranchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603486939426" />
-    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1603540829136">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603961665298">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603540829136" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603535826969" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603961665298" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603531677258">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
